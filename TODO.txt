@@ -1,0 +1,4 @@
+[ ] Timeout vid accept
+[ ] Enhetstestramverk
+[ ] Parse HTTP-request
+[ ] Skriva till http-response. (callback returnerar)
